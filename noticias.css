@@ -1,5 +1,5 @@
 body {
-  padding-top: 70px;
+  padding-top: 100px;
 }
 #logo {
   max-width: 60px;
@@ -15,4 +15,20 @@ body {
 .navbar-collapse li {
   font-size: 20px;
   padding: 15px;
+}
+
+
+.footer {
+  background-color: #5b97a0;
+  height: 35%;
+}
+div .redes {
+  padding-top: 80px;
+}
+a .social {
+  padding: 10px;
+}
+.contacto li {
+  list-style: none;
+  float: left;
 }

@@ -24,3 +24,18 @@ div .row .somos {
   padding: 50px;
   max-width: 70%;
 }
+
+.footer {
+  background-color: #5b97a0;
+  height: 35%;
+}
+div .redes {
+  padding-top: 80px;
+}
+a .social {
+  padding: 10px;
+}
+.contacto li {
+  list-style: none;
+  float: left;
+}
