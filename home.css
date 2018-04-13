@@ -7,6 +7,26 @@ body {
   border-radius: 50%;
   transform: translateY(-5px);
 }
+#mycarousel {
+  height: 600px;
+  width: 100%;
+  display: block;
+  position: relative;
+}
+.carousel-inner {
+  margin-top: 40px;
+}
+.carousel-control {
+  margin-top: 10px;
+}
+.item {
+  height: 400px;
+  width: 100%;
+}
+.carousel-indicators {
+  width: 50px;
+  height: auto;
+}
 .thum {
   max-height: 200px;
 }
@@ -29,4 +49,18 @@ div .row .thumbnail {
 .navbar-collapse li {
   font-size: 20px;
   padding: 15px;
+}
+.footer {
+  background-color: #5b97a0;
+  height: 35%;
+}
+div .redes {
+  padding-top: 80px;
+}
+a .social {
+  padding: 10px;
+}
+.contacto li {
+  list-style: none;
+  float: left;
 }
