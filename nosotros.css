@@ -1,5 +1,5 @@
 body {
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
 * {
@@ -19,6 +19,25 @@ body {
 .navbar-collapse li {
   font-size: 20px;
   padding: 15px;
+}
+.container-fluid {
+  padding: 0 !important;
+}
+.page-header {
+  background-image: url("images/green.jpg");
+  background-attachment: fixed;
+  height: 350px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 100px;
+  margin: 0 !important;
+}
+#directorio {
+  margin-top: 0;
+  height: 200px;
+  background-color: #e3e4e5;
+  width: 100%;
 }
 .tbbt {
   border-radius: 50%;

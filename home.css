@@ -88,8 +88,8 @@ div .col-md-7 .inicio {
 div .redes {
   padding-top: 80px;
 }
-a.social {
-  padding: 10px;
+div a.social {
+  padding: 30px;
 }
 .contacto li {
   font-family: 'Roboto', sans-serif;
