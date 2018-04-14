@@ -27,7 +27,7 @@ body {
   height: 35%;
 }
 div .redes {
-  padding-top: 80px;
+  padding-top: 20px;
 }
 a .social {
   padding: 10px;
@@ -40,4 +40,8 @@ a .social {
   float: left;
   padding: 10px;
   border-top: #6d6f72 solid 1px;
+}
+input, textarea {
+  border-radius: 5px;
+  width: 100%;
 }

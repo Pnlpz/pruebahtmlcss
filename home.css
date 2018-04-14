@@ -68,6 +68,7 @@ div .row .thumbnail {
   padding: 30px;
   border: none;
 }
+
 .container {
   border: none;
 }
@@ -90,10 +91,10 @@ div .col-md-7 .inicio {
 }
 
 div .redes {
-  padding-top: 80px;
+  padding-top: 20px;
 }
-div a.social {
-  padding: 30px;
+a .social {
+  padding: 10px;
 }
 .contacto li {
   font-family: 'Roboto', sans-serif;
@@ -103,4 +104,8 @@ div a.social {
   float: left;
   padding: 10px;
   border-top: #6d6f72 solid 1px;
+}
+input, textarea {
+  border-radius: 5px;
+  width: 100%;
 }
